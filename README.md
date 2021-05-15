@@ -1,2 +1,3 @@
 # librarySystemSimulation
-基于java.swing组件实现的图书馆管理系统
+基于java.swing组件实现的简单的图书馆管理系统
+详情见程序设计文档
